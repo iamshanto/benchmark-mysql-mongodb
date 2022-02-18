@@ -1,0 +1,16 @@
+{
+    "name": "vivasoft-ltd/mysql-mongodb-benchmark",
+    "type": "project",
+    "require": {
+        "fakerphp/faker": "^1.18",
+        "symfony/dotenv": "^5.4",
+        "ext-pdo": "*",
+        "mongodb/mongodb": "^1.11"
+    },
+    "authors": [
+        {
+            "name": "Samiul Amin",
+            "email": "iamshanto@gmail.com"
+        }
+    ]
+}

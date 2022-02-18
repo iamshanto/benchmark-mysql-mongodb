@@ -1,0 +1,1 @@
+####A simple php script to generate benchmark of mysql vs mongodb
